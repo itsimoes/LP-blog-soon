@@ -16,9 +16,27 @@ const Home = () => {
           </p>
           <p>form</p>
           <div className="social-media-wrapper">
-            <a href="https://instagram.com/itsimoes" target="_blank" rel="noreferrer" ><Instagram sx={{ fontSize: 40, marginRight: 1 }} /></a>
-            <a href="https://facebook.com/itsimoes" target="_blank" rel="noreferrer"><Facebook sx={{ fontSize: 40, marginRight: 1  }} /></a>
-            <a href="https://pinterest.com/itsimoes" target="_blank" rel="noreferrer"><Pinterest sx={{ fontSize: 40, marginRight: 1  }} /></a>
+            <a
+              href="https://instagram.com/itsimoes"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <Instagram sx={{ fontSize: 40, marginRight: 1 }} />
+            </a>
+            <a
+              href="https://facebook.com/itsimoes"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <Facebook sx={{ fontSize: 40, marginRight: 1 }} />
+            </a>
+            <a
+              href="https://pinterest.com/itsimoes"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <Pinterest sx={{ fontSize: 40, marginRight: 1 }} />
+            </a>
           </div>
         </div>
         <span>&copy; 2023 Ítalo Simões. All Rights Reserved.</span>
