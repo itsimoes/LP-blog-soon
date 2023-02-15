@@ -1,6 +1,7 @@
 import { Facebook, Instagram, Pinterest } from "@mui/icons-material";
 import React from "react";
 import "./style.scss";
+import Form from "../Form/Form"
 
 const Home = () => {
   return (
@@ -14,7 +15,7 @@ const Home = () => {
             inserindo seu email abaixo. Eu lhe notificarei assim que estiver
             disponível. Vamos lá!
           </p>
-          <p>form</p>
+          <Form />
           <div className="social-media-wrapper">
             <a
               href="https://instagram.com/itsimoes"
