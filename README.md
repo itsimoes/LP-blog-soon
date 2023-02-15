@@ -10,8 +10,8 @@
 
 <b>Versão desktop </b>
 
-<img src="https://user-images.githubusercontent.com/7232098/217836725-c20205c5-ffa5-49cd-b5a3-8b031b1f2393.png" width="50%" />
+<img src="https://user-images.githubusercontent.com/7232098/219021387-4e2e59a9-4a72-461d-ab2f-e25a57ef9ce6.png" width="50%" />
 
 <b>Versão mobile </b>
 
-<img src="https://user-images.githubusercontent.com/7232098/217836747-c493f13f-0c0a-4326-afc6-bf266e85b203.png" width="20%" />
+<img src="https://user-images.githubusercontent.com/7232098/219021392-a21c79a9-b05e-4480-ab04-aa076575926a.png" width="20%" />
