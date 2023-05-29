@@ -1,7 +1,7 @@
 {
   "name": "blog-soon",
   "version": "0.1.0",
-  "homepage": "https://itsimoes.github.io/lp-blog-soon/",
+  "homepage": "https://itsimoes.github.io/LP-blog-soon/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
