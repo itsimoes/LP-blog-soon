@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lp-blog-soon/static/css/main.ec370982.css",
+    "main.js": "/lp-blog-soon/static/js/main.897ed0ac.js",
+    "static/js/787.c89f95ed.chunk.js": "/lp-blog-soon/static/js/787.c89f95ed.chunk.js",
+    "static/media/bg-mobile.png": "/lp-blog-soon/static/media/bg-mobile.e1aa4d0c3693c4480476.png",
+    "static/media/bg.jpg": "/lp-blog-soon/static/media/bg.f9342a0a89973aee53eb.jpg",
+    "index.html": "/lp-blog-soon/index.html",
+    "main.ec370982.css.map": "/lp-blog-soon/static/css/main.ec370982.css.map",
+    "main.897ed0ac.js.map": "/lp-blog-soon/static/js/main.897ed0ac.js.map",
+    "787.c89f95ed.chunk.js.map": "/lp-blog-soon/static/js/787.c89f95ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec370982.css",
+    "static/js/main.897ed0ac.js"
+  ]
+}
